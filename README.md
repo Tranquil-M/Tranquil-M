@@ -10,9 +10,9 @@ My mother, of course! But in actuallity, I'm a highschool student who has always
 
 I may not know too much, but I do know a few coding languages!
 
-* ![Python](https://github.com/Tranquil-M/Tranquil-M/blob/main/Python.png?raw=true)
-* ![Lua](https://github.com/Tranquil-M/Tranquil-M/blob/main/Lua.png?raw=true)
-* ![Scratch???](https://github.com/Tranquil-M/Tranquil-M/blob/main/Scratch.png?raw=true)???
+<img src="https://github.com/Tranquil-M/Tranquil-M/blob/main/Python.png?raw=true" alt="Python" width="32" height="32"> Python! \
+<img src="https://github.com/Tranquil-M/Tranquil-M/blob/main/Lua.png?raw=true" alt="Python" width="32" height="32"> Lua! \
+<img src="https://github.com/Tranquil-M/Tranquil-M/blob/main/Scratch.png?raw=true" alt="Python" width="32" height="32"> Scratch???
 
 That's all! Take a look at some of my repositories, and have fun!
 
