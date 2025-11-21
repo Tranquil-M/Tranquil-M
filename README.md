@@ -12,7 +12,7 @@ I have made games in the past, but the most noteable of my skills I would say is
 
 <img src="https://github.com/Tranquil-M/Tranquil-M/blob/main/Python.png?raw=true" alt="Python" width="32" height="32"> Python! \
 <img src="https://github.com/Tranquil-M/Tranquil-M/blob/main/Lua.png?raw=true" alt="Python" width="32" height="32"> Lua! \
-<img src="https://github.com/Tranquil-M/Tranquil-M/blob/main/Bash.png?raw=true" alt="Python" width="32" height="32"> Bash!
+<img src="https://github.com/Tranquil-M/Tranquil-M/blob/main/Bash.png?raw=true" alt="Python" width="32" height="32"> Bash! \
 <img src="https://github.com/Tranquil-M/Tranquil-M/blob/main/Scratch.png?raw=true" alt="Python" width="32" height="32"> Scratch???
 
 That's all! Take a look at some of my repositories, and have fun!
