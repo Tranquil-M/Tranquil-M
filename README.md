@@ -8,7 +8,7 @@ My mother, of course! But in actuallity, I'm a highschool student who has always
 
 ### What kind of skills do you have?
 
-I may not know too much, but I do know a few coding languages!
+I have made games in the past, but the most noteable of my skills I would say is my knowledge of programming languages!
 
 <img src="https://github.com/Tranquil-M/Tranquil-M/blob/main/Python.png?raw=true" alt="Python" width="32" height="32"> Python! \
 <img src="https://github.com/Tranquil-M/Tranquil-M/blob/main/Lua.png?raw=true" alt="Python" width="32" height="32"> Lua! \
