@@ -15,7 +15,7 @@ I have made games in the past, but the most noteable of my skills I would say is
 <img src="https://github.com/Tranquil-M/Tranquil-M/blob/main/Bash.png?raw=true" alt="Python" width="32" height="32"> Bash! \
 <img src="https://github.com/Tranquil-M/Tranquil-M/blob/main/Scratch.png?raw=true" alt="Python" width="32" height="32"> Scratch???
 
-That's all! Take a look at some of my repositories, and have fun!
+That's all! Consider starring one of my repositories! It keeps me motivated.
 
 <!--
 **Tranquil-M/Tranquil-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
