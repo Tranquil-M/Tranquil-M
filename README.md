@@ -1,4 +1,4 @@
-<img height="200" src="https://github.com/Tranquil-M/Tranquil-M/blob/main/dance%20dance.gif?raw=true"/> ![Tranquil's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Tranquil-M&theme=transparent)
+<img height="200" src="https://github.com/Tranquil-M/Tranquil-M/blob/main/dance%20dance.gif?raw=true"/>
   
 
 ```diff
