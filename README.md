@@ -1,33 +1,17 @@
-## Hi there! 👋
+<img height="200" src="https://github.com/Tranquil-M/Tranquil-M/blob/main/dance%20dance.gif?raw=true"/> ![Tranquil's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Tranquil-M&theme=transparent)
+  
 
-I'm Tranquil, a python developer who really enjoys coding. It's my favorite hobby!
+```diff
+hi, im tranquil 😄.
 
-### Where did you come from?
-
-My mother, of course! But in actuallity, I'm a highschool student who has always been drawn to the wonders of computer science. It's rather unfortunate that AI is taking over now, but I won't let that discourage me.
-
-### What kind of skills do you have?
-
-I have made games in the past, but the most noteable of my skills I would say is my knowledge of programming languages!
-
-<img src="https://github.com/Tranquil-M/Tranquil-M/blob/main/Python.png?raw=true" alt="Python" width="32" height="32"> Python! \
-<img src="https://github.com/Tranquil-M/Tranquil-M/blob/main/Lua.png?raw=true" alt="Python" width="32" height="32"> Lua! \
-<img src="https://github.com/Tranquil-M/Tranquil-M/blob/main/Bash.png?raw=true" alt="Python" width="32" height="32"> Bash! \
-<img src="https://github.com/Tranquil-M/Tranquil-M/blob/main/Scratch.png?raw=true" alt="Python" width="32" height="32"> Scratch???
-
-That's all! Consider starring one of my repositories! It keeps me motivated.
-
-<!--
-**Tranquil-M/Tranquil-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@@computer science student@@
++ living in los angeles, california.
+- 15 years old
+- highschool student
+! python developer
++ experience in lua and bash
+# computer science, app building 🧑‍💻
+```
+------
+[Tranquil-M](https://github.com/Tranquil-M)
+Last Edited on: 02/24/2026
