@@ -1,5 +1,11 @@
+<table>
+<tr>
+<td valign="top">
+
 <img height="200" src="https://github.com/Tranquil-M/Tranquil-M/blob/main/dance%20dance.gif?raw=true"/>
-  
+
+</td>
+<td valign="top">
 
 ```diff
 hi, im tranquil 😄.
@@ -11,7 +17,3 @@ hi, im tranquil 😄.
 ! python developer
 + experience in lua and bash
 # computer science, app building 🧑‍💻
-```
-------
-[Tranquil-M](https://github.com/Tranquil-M)
-Last Edited on: 02/24/2026
